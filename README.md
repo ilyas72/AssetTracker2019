@@ -6,11 +6,11 @@ Asset Tracker
 
 Clone or download the project
 
-### Prerequisites
+## Prerequisites
 
 Install AMPPS
 
-### AMPPS
+## AMPPS
 
 Copy the Asset Tracker folder
 
@@ -34,7 +34,7 @@ Change 'port=3306' to port=3308
 Turn the MySQL on
 
 
-### Setup Database
+## Setup Database
 
 Open AMPPS
 
