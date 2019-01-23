@@ -16,7 +16,7 @@ Copy the Asset Tracker folder
 
 Paste it into 'WWW' folder in the AMPPS folder 
 
-Open AMPPS and turn Apache on
+Open AMPPS app and turn Apache on
 
 Go to the browser and type 'localhost'
 
