@@ -9,7 +9,6 @@ Clone or download the project
 ### Prerequisites
 
 Install AMPPS
-```
 
 ### AMPPS
 
