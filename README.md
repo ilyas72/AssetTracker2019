@@ -27,7 +27,7 @@ Click on Asset Tracker
 
 Search and open 'my.cnf' file
 
-3 lines below 'The MySQL server 
+3 lines below 'The MySQL server' 
 
 Change 'port=3306' to port=3308
 
